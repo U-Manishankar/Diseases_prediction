@@ -10,7 +10,7 @@ import pickle
 
 
 
-load_model=pickle.load(open('F:/disease_prediction/prediction_system.sav','rb'))
+load_model=pickle.load(open('prediction_system.sav','rb'))
 
 
 
