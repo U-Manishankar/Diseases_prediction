@@ -59,7 +59,7 @@ def main():
     <p>Please check the symptoms you are experiencing from the list below.</p>
     </div>
     """,
-    height=75,
+    height=100,
     )
     
     col1,col2,col3,col4=st.columns(4)
