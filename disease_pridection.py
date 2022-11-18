@@ -60,7 +60,7 @@ def main():
     <p>Please check the symptoms you are experiencing from the list below.</p>
     </div>
     """,
-    height=75,
+    height=100,
     )
     
     
