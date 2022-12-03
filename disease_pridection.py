@@ -544,8 +544,8 @@ def main():
                     
                     
                     
-                    st.success("There are the chances you may have")
-                    st.success(Diagnosis)
+                    
+                    st.write(st.success(Diagnosis))
             else:
                 if element==1 and frequency<2:
                     st.warning("Please select multiple symptoms for accurate prediction")
