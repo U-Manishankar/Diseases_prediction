@@ -541,11 +541,13 @@ def main():
                                                   inflammatory_nails,blister,
                                                   red_sore_around_nose,
                                                   yellow_crust_ooze])
+                    st.success(Diagnosis)
                     
                     
                     
                     
-                   st.success(Diagnosis)
+                    
+                 
             else:
                 if element==1 and frequency<2:
                     st.warning("Please select multiple symptoms for accurate prediction")
