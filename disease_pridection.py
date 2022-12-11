@@ -220,7 +220,8 @@ def main():
     yellow_crust_ooze=int(col4.checkbox(" yellow_crust_ooze"))
     yellow_urine=int(col4.checkbox("yellow_urine"))
     yellowing_of_eyes=int(col4.checkbox("yellowing_of_eyes"))
-    yellowish_skin=dark_urine=int(col4.checkbox("yellowish_skindark_urine"))
+    yellowish_skin=int(col4.checkbox("yellowish_skine"))
+    dark_urine=int(col4.checkbox("dark_urine"))
    
 
      
